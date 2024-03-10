@@ -1,0 +1,26 @@
+{
+  "name": "@humayun/react-hook",
+  "version": "1.0.0",
+  "description": "This is just testing purpose react hook that will created based on rest country api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humayun63/-humayun-react-hook.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "humayun",
+    "kabir",
+    "coderex"
+  ],
+  "author": "MD Humayun Kabir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humayun63/-humayun-react-hook/issues"
+  },
+  "homepage": "https://github.com/Humayun63/-humayun-react-hook#readme"
+}
